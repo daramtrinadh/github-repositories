@@ -1,0 +1,21 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+}
+.lang-list {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.repo-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.failure-view {
+  height: 100px;
+}

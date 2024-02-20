@@ -1,0 +1,15 @@
+.list-item {
+  margin: 10px;
+}
+.lang-btn {
+  border-color: transparent;
+  border-width: 0px;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.active-class {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 5px;
+}
